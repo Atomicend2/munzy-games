@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1",
+    "title": "The Witcher 3: Wild Hunt",
+    "platform": "PC",
+    "rating": 97,
+    "description": "An epic RPG filled with monsters, deep storytelling, and choices that matter.",
+    "image": "https://picsum.photos/seed/witcher3/400/250"
+  },
+  {
+    "id": "2",
+    "title": "God of War: Ragnarok",
+    "platform": "PlayStation",
+    "rating": 95,
+    "description": "Kratos returns with even more brutal combat and an emotional journey with Atreus.",
+    "image": "https://picsum.photos/seed/gowr/400/250"
+  },
+  {
+    "id": "3",
+    "title": "Minecraft",
+    "platform": "PC",
+    "rating": 91,
+    "description": "Endless creativity with blocks, survival, and a massive player community.",
+    "image": "https://picsum.photos/seed/minecraft/400/250"
+  },
+  {
+    "id": "4",
+    "title": "PUBG Mobile",
+    "platform": "Android",
+    "rating": 82,
+    "description": "Battle royale at your fingertips with intense online competition.",
+    "image": "https://picsum.photos/seed/pubgm/400/250"
+  },
+  {
+    "id": "5",
+    "title": "Genshin Impact",
+    "platform": "iOS",
+    "rating": 88,
+    "description": "An open-world action RPG with beautiful anime visuals and deep elemental combat.",
+    "image": "https://picsum.photos/seed/genshin/400/250"
+  },
+  {
+    "id": "6",
+    "title": "Elden Ring",
+    "platform": "PC",
+    "rating": 96,
+    "description": "FromSoftware’s masterpiece combining exploration, brutal bosses, and deep lore.",
+    "image": "https://picsum.photos/seed/eldenring/400/250"
+  },
+  {
+    "id": "7",
+    "title": "Fortnite",
+    "platform": "PC",
+    "rating": 84,
+    "description": "Colorful battle royale with constant updates and crossover events.",
+    "image": "https://picsum.photos/seed/fortnite/400/250"
+  },
+  {
+    "id": "8",
+    "title": "Red Dead Redemption 2",
+    "platform": "PlayStation",
+    "rating": 96,
+    "description": "An immersive open-world Western with jaw-dropping detail and storytelling.",
+    "image": "https://picsum.photos/seed/rdr2/400/250"
+  },
+  {
+    "id": "9",
+    "title": "Among Us",
+    "platform": "iOS",
+    "rating": 78,
+    "description": "A social deduction game where teamwork and betrayal collide.",
+    "image": "https://picsum.photos/seed/amongus/400/250"
+  },
+  {
+    "id": "10",
+    "title": "Call of Duty: Warzone",
+    "platform": "PC",
+    "rating": 85,
+    "description": "Fast-paced first-person shooter battle royale with realistic gunplay.",
+    "image": "https://picsum.photos/seed/warzone/400/250"
+  },
+  {
+    "id": "11",
+    "title": "Horizon Forbidden West",
+    "platform": "PlayStation",
+    "rating": 89,
+    "description": "Explore lush landscapes with Aloy in this beautiful action-adventure sequel.",
+    "image": "https://picsum.photos/seed/hfw/400/250"
+  },
+  {
+    "id": "12",
+    "title": "Clash of Clans",
+    "platform": "Android",
+    "rating": 80,
+    "description": "Strategic base building and real-time battles in a global community.",
+    "image": "https://picsum.photos/seed/coc/400/250"
+  },
+  {
+    "id": "13",
+    "title": "FIFA 23",
+    "platform": "PC",
+    "rating": 83,
+    "description": "The latest football experience with realistic mechanics and online play.",
+    "image": "https://picsum.photos/seed/fifa23/400/250"
+  },
+  {
+    "id": "14",
+    "title": "Assassin’s Creed Valhalla",
+    "platform": "PC",
+    "rating": 86,
+    "description": "Lead your Viking clan through conquest and epic storytelling.",
+    "image": "https://picsum.photos/seed/acv/400/250"
+  },
+  {
+    "id": "15",
+    "title": "League of Legends",
+    "platform": "PC",
+    "rating": 88,
+    "description": "Competitive MOBA with millions of players worldwide.",
+    "image": "https://picsum.photos/seed/lol/400/250"
+  },
+  {
+    "id": "16",
+    "title": "Subway Surfers",
+    "platform": "iOS",
+    "rating": 75,
+    "description": "An endless runner classic with colorful visuals and addictive gameplay.",
+    "image": "https://picsum.photos/seed/subway/400/250"
+  },
+  {
+    "id": "17",
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "rating": 79,
+    "description": "A futuristic RPG set in Night City, filled with choices and consequences.",
+    "image": "https://picsum.photos/seed/cyberpunk/400/250"
+  },
+  {
+    "id": "18",
+    "title": "Pokémon GO",
+    "platform": "Android",
+    "rating": 81,
+    "description": "Catch Pokémon in the real world with augmented reality gameplay.",
+    "image": "https://picsum.photos/seed/pokemongo/400/250"
+  },
+  {
+    "id": "19",
+    "title": "Grand Theft Auto V",
+    "platform": "PC",
+    "rating": 97,
+    "description": "A sprawling open world with limitless possibilities for crime and chaos.",
+    "image": "https://picsum.photos/seed/gtav/400/250"
+  },
+  {
+    "id": "20",
+    "title": "Mobile Legends: Bang Bang",
+    "platform": "Android",
+    "rating": 84,
+    "description": "Fast-paced MOBA action designed for mobile devices.",
+    "image": "https://picsum.photos/seed/mlbb/400/250"
+  },
+  {
+    "id": "21",
+    "title": "Apex Legends",
+    "platform": "PC",
+    "rating": 87,
+    "description": "A hero-based battle royale with unique characters and abilities.",
+    "image": "https://picsum.photos/seed/apex/400/250"
+  },
+  {
+    "id": "22",
+    "title": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "rating": 97,
+    "description": "Mario’s globe-trotting 3D adventure packed with creativity and charm.",
+    "image": "https://picsum.photos/seed/marioodyssey/400/250"
+  },
+  {
+    "id": "23",
+    "title": "Valorant",
+    "platform": "PC",
+    "rating": 86,
+    "description": "A tactical shooter combining precise gunplay with unique agent abilities.",
+    "image": "https://picsum.photos/seed/valorant/400/250"
+  },
+  {
+    "id": "24",
+    "title": "Candy Crush Saga",
+    "platform": "iOS",
+    "rating": 74,
+    "description": "A colorful and addictive match-3 puzzle game.",
+    "image": "https://picsum.photos/seed/candycrush/400/250"
+  },
+  {
+    "id": "25",
+    "title": "Resident Evil Village",
+    "platform": "PC",
+    "rating": 84,
+    "description": "Survival horror continues with Ethan’s terrifying new adventure.",
+    "image": "https://picsum.photos/seed/re8/400/250"
+  },
+  {
+    "id": "26",
+    "title": "Clash Royale",
+    "platform": "Android",
+    "rating": 80,
+    "description": "A real-time card strategy game with fast-paced duels.",
+    "image": "https://picsum.photos/seed/clashroyale/400/250"
+  },
+  {
+    "id": "27",
+    "title": "Monster Hunter: World",
+    "platform": "PC",
+    "rating": 90,
+    "description": "Hunt massive beasts in lush environments with friends.",
+    "image": "https://picsum.photos/seed/mhw/400/250"
+  },
+  {
+    "id": "28",
+    "title": "Overwatch 2",
+    "platform": "PC",
+    "rating": 81,
+    "description": "Team-based hero shooter with unique characters and objectives.",
+    "image": "https://picsum.photos/seed/overwatch2/400/250"
+  },
+  {
+    "id": "29",
+    "title": "Need for Speed: Heat",
+    "platform": "PC",
+    "rating": 78,
+    "description": "Street racing action with cops and customizable cars.",
+    "image": "https://picsum.photos/seed/nfsheat/400/250"
+  },
+  {
+    "id": "30",
+    "title": "The Last of Us Part II",
+    "platform": "PlayStation",
+    "rating": 93,
+    "description": "An emotional and brutal survival story in a post-apocalyptic world.",
+    "image": "https://picsum.photos/seed/tlou2/400/250"
+  },
+  {
+    "id": "31",
+    "title": "Roblox",
+    "platform": "iOS",
+    "rating": 82,
+    "description": "A platform for games created by the community, endless fun.",
+    "image": "https://picsum.photos/seed/roblox/400/250"
+  },
+  {
+    "id": "32",
+    "title": "Battlefield 2042",
+    "platform": "PC",
+    "rating": 70,
+    "description": "Large-scale warfare with massive maps and modern combat.",
+    "image": "https://picsum.photos/seed/bf2042/400/250"
+  },
+  {
+    "id": "33",
+    "title": "Animal Crossing: New Horizons",
+    "platform": "Nintendo Switch",
+    "rating": 91,
+    "description": "A cozy life-sim where you build your own island paradise.",
+    "image": "https://picsum.photos/seed/acnh/400/250"
+  },
+  {
+    "id": "34",
+    "title": "Temple Run",
+    "platform": "Android",
+    "rating": 73,
+    "description": "One of the original endless runners that started a craze.",
+    "image": "https://picsum.photos/seed/templerun/400/250"
+  },
+  {
+    "id": "35",
+    "title": "Sekiro: Shadows Die Twice",
+    "platform": "PC",
+    "rating": 90,
+    "description": "A fast-paced samurai action game with unforgiving combat.",
+    "image": "https://picsum.photos/seed/sekiro/400/250"
+  },
+  {
+    "id": "36",
+    "title": "Diablo IV",
+    "platform": "PC",
+    "rating": 86,
+    "description": "Return to the dark world of Sanctuary in Blizzard’s action RPG.",
+    "image": "https://picsum.photos/seed/diablo4/400/250"
+  },
+  {
+    "id": "37",
+    "title": "League of Legends: Wild Rift",
+    "platform": "iOS",
+    "rating": 83,
+    "description": "The mobile version of LoL, designed for quick sessions.",
+    "image": "https://picsum.photos/seed/wildrift/400/250"
+  },
+  {
+    "id": "38",
+    "title": "Halo Infinite",
+    "platform": "PC",
+    "rating": 84,
+    "description": "Master Chief returns in an expansive new Halo adventure.",
+    "image": "https://picsum.photos/seed/halo/400/250"
+  },
+  {
+    "id": "39",
+    "title": "Dota 2",
+    "platform": "PC",
+    "rating": 89,
+    "description": "A legendary MOBA with intense competitive matches.",
+    "image": "https://picsum.photos/seed/dota2/400/250"
+  },
+  {
+    "id": "40",
+    "title": "Mortal Kombat 11",
+    "platform": "PC",
+    "rating": 85,
+    "description": "Brutal fighting game with iconic characters and gory finishers.",
+    "image": "https://picsum.photos/seed/mk11/400/250"
+  },
+  {
+    "id": "41",
+    "title": "PUBG Mobile",
+    "platform": "Android",
+    "rating": 82,
+    "description": "A mobile battle royale with realistic gunplay and vehicles.",
+    "image": "https://picsum.photos/seed/pubgm/400/250"
+  },
+  {
+    "id": "42",
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "rating": 79,
+    "description": "A futuristic open-world RPG with deep storytelling and style.",
+    "image": "https://picsum.photos/seed/cyberpunk/400/250"
+  },
+  {
+    "id": "43",
+    "title": "Hollow Knight",
+    "platform": "PC",
+    "rating": 91,
+    "description": "A challenging and atmospheric indie Metroidvania adventure.",
+    "image": "https://picsum.photos/seed/hollowknight/400/250"
+  },
+  {
+    "id": "44",
+    "title": "Fortnite",
+    "platform": "PC",
+    "rating": 84,
+    "description": "The colorful battle royale phenomenon with building mechanics.",
+    "image": "https://picsum.photos/seed/fortnite/400/250"
+  },
+  {
+    "id": "45",
+    "title": "FIFA 23",
+    "platform": "PlayStation",
+    "rating": 80,
+    "description": "The latest football simulation with updated squads and features.",
+    "image": "https://picsum.photos/seed/fifa23/400/250"
+  },
+  {
+    "id": "46",
+    "title": "Among Us",
+    "platform": "iOS",
+    "rating": 78,
+    "description": "A party game of teamwork and betrayal set in space.",
+    "image": "https://picsum.photos/seed/amongus/400/250"
+  },
+  {
+    "id": "47",
+    "title": "Rocket League",
+    "platform": "PC",
+    "rating": 89,
+    "description": "Soccer with rocket-powered cars in chaotic arenas.",
+    "image": "https://picsum.photos/seed/rocketleague/400/250"
+  },
+  {
+    "id": "48",
+    "title": "Elden Ring",
+    "platform": "PC",
+    "rating": 96,
+    "description": "A vast open-world action RPG from the creators of Dark Souls.",
+    "image": "https://picsum.photos/seed/eldenring/400/250"
+  },
+  {
+    "id": "49",
+    "title": "Call of Duty: Warzone",
+    "platform": "PC",
+    "rating": 85,
+    "description": "A free-to-play battle royale with fast-paced combat.",
+    "image": "https://picsum.photos/seed/warzone/400/250"
+  },
+  {
+    "id": "50",
+    "title": "Minecraft",
+    "platform": "PC",
+    "rating": 95,
+    "description": "A sandbox game of creativity, survival, and exploration.",
+    "image": "https://picsum.photos/seed/minecraft/400/250"
+  },
+  {
+    "id": "51",
+    "title": "Genshin Impact",
+    "platform": "Android",
+    "rating": 88,
+    "description": "A free-to-play open-world RPG with gacha mechanics.",
+    "image": "https://picsum.photos/seed/genshin/400/250"
+  },
+  {
+    "id": "52",
+    "title": "Street Fighter V",
+    "platform": "PC",
+    "rating": 81,
+    "description": "A competitive fighting game with iconic world warriors.",
+    "image": "https://picsum.photos/seed/sfv/400/250"
+  },
+  {
+    "id": "53",
+    "title": "Destiny 2",
+    "platform": "PC",
+    "rating": 86,
+    "description": "A shared-world shooter with RPG progression and raids.",
+    "image": "https://picsum.photos/seed/destiny2/400/250"
+  },
+  {
+    "id": "54",
+    "title": "Stardew Valley",
+    "platform": "PC",
+    "rating": 93,
+    "description": "A relaxing farming sim with endless activities and charm.",
+    "image": "https://picsum.photos/seed/stardew/400/250"
+  },
+  {
+    "id": "55",
+    "title": "Clash of Clans",
+    "platform": "Android",
+    "rating": 79,
+    "description": "A strategy game where you build villages and battle clans.",
+    "image": "https://picsum.photos/seed/coc/400/250"
+  },
+  {
+    "id": "56",
+    "title": "God of War (2018)",
+    "platform": "PlayStation",
+    "rating": 94,
+    "description": "Kratos embarks on a new journey in Norse mythology.",
+    "image": "https://picsum.photos/seed/gow2018/400/250"
+  },
+  {
+    "id": "57",
+    "title": "Pokemon GO",
+    "platform": "iOS",
+    "rating": 83,
+    "description": "Augmented reality game where players catch Pokémon in real life.",
+    "image": "https://picsum.photos/seed/pokemongo/400/250"
+  },
+  {
+    "id": "58",
+    "title": "The Witcher 3: Wild Hunt",
+    "platform": "PC",
+    "rating": 97,
+    "description": "A story-driven RPG masterpiece with vast open-world exploration.",
+    "image": "https://picsum.photos/seed/witcher3/400/250"
+  },
+  {
+    "id": "59",
+    "title": "Fall Guys",
+    "platform": "PC",
+    "rating": 79,
+    "description": "A wacky battle royale platformer with colorful mini-games.",
+    "image": "https://picsum.photos/seed/fallguys/400/250"
+  },
+  {
+    "id": "60",
+    "title": "Madden NFL 23",
+    "platform": "PlayStation",
+    "rating": 77,
+    "description": "American football simulation with updated rosters and modes.",
+    "image": "https://picsum.photos/seed/madden23/400/250"
+  },
+  {
+    "id": "61",
+    "title": "Overcooked! 2",
+    "platform": "PC",
+    "rating": 86,
+    "description": "Chaotic co-op cooking fun with new recipes and challenges.",
+    "image": "https://picsum.photos/seed/overcooked2/400/250"
+  },
+  {
+    "id": "62",
+    "title": "Apex Legends",
+    "platform": "PC",
+    "rating": 89,
+    "description": "A squad-based hero shooter battle royale with unique abilities.",
+    "image": "https://picsum.photos/seed/apex/400/250"
+  },
+  {
+    "id": "63",
+    "title": "NBA 2K23",
+    "platform": "PlayStation",
+    "rating": 81,
+    "description": "Realistic basketball simulation with deep career and online modes.",
+    "image": "https://picsum.photos/seed/nba2k23/400/250"
+  },
+  {
+    "id": "64",
+    "title": "Terraria",
+    "platform": "PC",
+    "rating": 92,
+    "description": "A 2D sandbox adventure game full of crafting, combat, and exploration.",
+    "image": "https://picsum.photos/seed/terraria/400/250"
+  },
+  {
+    "id": "65",
+    "title": "The Sims 4",
+    "platform": "PC",
+    "rating": 76,
+    "description": "Life simulation where you control every detail of your Sims’ lives.",
+    "image": "https://picsum.photos/seed/sims4/400/250"
+  },
+  {
+    "id": "66",
+    "title": "Animal Crossing: New Horizons",
+    "platform": "Nintendo Switch",
+    "rating": 90,
+    "description": "Create your dream island life with charming villagers and crafting.",
+    "image": "https://picsum.photos/seed/acnh/400/250"
+  },
+  {
+    "id": "67",
+    "title": "Counter-Strike: Global Offensive",
+    "platform": "PC",
+    "rating": 88,
+    "description": "Tactical first-person shooter with competitive team-based gameplay.",
+    "image": "https://picsum.photos/seed/csgo/400/250"
+  },
+  {
+    "id": "68",
+    "title": "League of Legends",
+    "platform": "PC",
+    "rating": 86,
+    "description": "The most popular MOBA with intense 5v5 battles.",
+    "image": "https://picsum.photos/seed/lol/400/250"
+  },
+  {
+    "id": "69",
+    "title": "Forza Horizon 5",
+    "platform": "Xbox",
+    "rating": 92,
+    "description": "Open-world racing game set in vibrant Mexico landscapes.",
+    "image": "https://picsum.photos/seed/forza5/400/250"
+  },
+  {
+    "id": "70",
+    "title": "Resident Evil 2 Remake",
+    "platform": "PC",
+    "rating": 91,
+    "description": "A modern reimagining of the classic survival horror masterpiece.",
+    "image": "https://picsum.photos/seed/re2remake/400/250"
+  },
+  {
+    "id": "71",
+    "title": "Valorant",
+    "platform": "PC",
+    "rating": 87,
+    "description": "Tactical shooter blending precise gunplay and hero abilities.",
+    "image": "https://picsum.photos/seed/valorant/400/250"
+  },
+  {
+    "id": "72",
+    "title": "Cuphead",
+    "platform": "PC",
+    "rating": 88,
+    "description": "A run-and-gun game with a unique 1930s cartoon art style.",
+    "image": "https://picsum.photos/seed/cuphead/400/250"
+  },
+  {
+    "id": "73",
+    "title": "Red Dead Online",
+    "platform": "PC",
+    "rating": 75,
+    "description": "Multiplayer companion to RDR2 with Western adventures.",
+    "image": "https://picsum.photos/seed/rdo/400/250"
+  },
+  {
+    "id": "74",
+    "title": "Dead Cells",
+    "platform": "PC",
+    "rating": 91,
+    "description": "A roguelike Metroidvania with fast-paced combat.",
+    "image": "https://picsum.photos/seed/deadcells/400/250"
+  },
+  {
+    "id": "75",
+    "title": "Super Mario Odyssey",
+    "platform": "Nintendo Switch",
+    "rating": 97,
+    "description": "Mario explores creative worlds with his hat companion, Cappy.",
+    "image": "https://picsum.photos/seed/odyssey/400/250"
+  },
+  {
+    "id": "76",
+    "title": "Halo Infinite",
+    "platform": "Xbox",
+    "rating": 82,
+    "description": "The latest entry in the legendary Halo franchise.",
+    "image": "https://picsum.photos/seed/halo/400/250"
+  },
+  {
+    "id": "77",
+    "title": "Splatoon 3",
+    "platform": "Nintendo Switch",
+    "rating": 83,
+    "description": "Team-based shooter with ink-splatting action and style.",
+    "image": "https://picsum.photos/seed/splatoon3/400/250"
+  },
+  {
+    "id": "78",
+    "title": "Dota 2",
+    "platform": "PC",
+    "rating": 90,
+    "description": "A complex and competitive MOBA played worldwide.",
+    "image": "https://picsum.photos/seed/dota2/400/250"
+  },
+  {
+    "id": "79",
+    "title": "Assassin’s Creed Valhalla",
+    "platform": "PC",
+    "rating": 82,
+    "description": "Live the Viking saga in Ubisoft’s open-world RPG.",
+    "image": "https://picsum.photos/seed/valhalla/400/250"
+  },
+  {
+    "id": "80",
+    "title": "Metroid Dread",
+    "platform": "Nintendo Switch",
+    "rating": 88,
+    "description": "Samus Aran’s latest 2D adventure with tense exploration.",
+    "image": "https://picsum.photos/seed/metroiddread/400/250"
+  },
+  {
+    "id": "81",
+    "title": "Street Fighter V",
+    "platform": "PC",
+    "rating": 77,
+    "description": "Iconic fighting series with intense one-on-one battles.",
+    "image": "https://picsum.photos/seed/sfv/400/250"
+  },
+  {
+    "id": "82",
+    "title": "Dragon Quest XI",
+    "platform": "PC",
+    "rating": 91,
+    "description": "Classic JRPG with modern visuals and heartfelt storytelling.",
+    "image": "https://picsum.photos/seed/dqxi/400/250"
+  },
+  {
+    "id": "83",
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "rating": 79,
+    "description": "Futuristic open-world RPG set in Night City.",
+    "image": "https://picsum.photos/seed/cyberpunk/400/250"
+  },
+  {
+    "id": "84",
+    "title": "Crash Bandicoot 4: It’s About Time",
+    "platform": "PlayStation",
+    "rating": 85,
+    "description": "A nostalgic but modern return of Crash with time-bending gameplay.",
+    "image": "https://picsum.photos/seed/crash4/400/250"
+  },
+  {
+    "id": "85",
+    "title": "Monster Hunter Rise",
+    "platform": "Nintendo Switch",
+    "rating": 87,
+    "description": "Hunt giant beasts with friends in Capcom’s action RPG.",
+    "image": "https://picsum.photos/seed/mhrise/400/250"
+  },
+  {
+    "id": "86",
+    "title": "Demon’s Souls Remake",
+    "platform": "PlayStation 5",
+    "rating": 92,
+    "description": "A stunning reimagining of the Soulsborne classic.",
+    "image": "https://picsum.photos/seed/demonsouls/400/250"
+  },
+  {
+    "id": "87",
+    "title": "Call of Duty: Warzone",
+    "platform": "PC",
+    "rating": 80,
+    "description": "Free-to-play battle royale mode of Call of Duty.",
+    "image": "https://picsum.photos/seed/warzone/400/250"
+  },
+  {
+    "id": "88",
+    "title": "Control",
+    "platform": "PC",
+    "rating": 84,
+    "description": "A supernatural action-adventure with mind-bending environments.",
+    "image": "https://picsum.photos/seed/control/400/250"
+  },
+  {
+    "id": "89",
+    "title": "Hades II",
+    "platform": "PC",
+    "rating": 95,
+    "description": "The sequel to the award-winning roguelike Hades.",
+    "image": "https://picsum.photos/seed/hades2/400/250"
+  },
+  {
+    "id": "90",
+    "title": "The Elder Scrolls V: Skyrim",
+    "platform": "PC",
+    "rating": 94,
+    "description": "Legendary open-world RPG with endless mods and adventures.",
+    "image": "https://picsum.photos/seed/skyrim/400/250"
+  },
+  {
+    "id": "91",
+    "title": "Hollow Knight: Silksong",
+    "platform": "PC",
+    "rating": 93,
+    "description": "Highly anticipated sequel to Hollow Knight.",
+    "image": "https://picsum.photos/seed/silksong/400/250"
+  },
+  {
+    "id": "92",
+    "title": "Far Cry 6",
+    "platform": "PC",
+    "rating": 76,
+    "description": "Rebel against a dictator in Ubisoft’s tropical sandbox shooter.",
+    "image": "https://picsum.photos/seed/fc6/400/250"
+  },
+  {
+    "id": "93",
+    "title": "Marvel’s Guardians of the Galaxy",
+    "platform": "PC",
+    "rating": 82,
+    "description": "A single-player story-driven Marvel adventure.",
+    "image": "https://picsum.photos/seed/gotg/400/250"
+  },
+  {
+    "id": "94",
+    "title": "Final Fantasy VII Remake",
+    "platform": "PlayStation",
+    "rating": 91,
+    "description": "Reimagining of the beloved RPG classic with modern visuals.",
+    "image": "https://picsum.photos/seed/ff7remake/400/250"
+  },
+  {
+    "id": "95",
+    "title": "Star Wars Jedi: Fallen Order",
+    "platform": "PC",
+    "rating": 85,
+    "description": "Single-player action-adventure set in the Star Wars universe.",
+    "image": "https://picsum.photos/seed/jedi/400/250"
+  },
+  {
+    "id": "96",
+    "title": "Alan Wake Remastered",
+    "platform": "PC",
+    "rating": 80,
+    "description": "A psychological thriller remastered for modern systems.",
+    "image": "https://picsum.photos/seed/alanwake/400/250"
+  },
+  {
+    "id": "97",
+    "title": "Little Nightmares II",
+    "platform": "PC",
+    "rating": 84,
+    "description": "A creepy puzzle-platformer full of unsettling atmosphere.",
+    "image": "https://picsum.photos/seed/ln2/400/250"
+  },
+  {
+    "id": "98",
+    "title": "Genshin Impact",
+    "platform": "PC",
+    "rating": 86,
+    "description": "A free-to-play open-world action RPG with gacha elements.",
+    "image": "https://picsum.photos/seed/genshin/400/250"
+  },
+  {
+    "id": "99",
+    "title": "Pokémon Legends: Arceus",
+    "platform": "Nintendo Switch",
+    "rating": 83,
+    "description": "An open-world Pokémon adventure set in feudal times.",
+    "image": "https://picsum.photos/seed/arceus/400/250"
+  },
+  {
+    "id": "100",
+    "title": "Street Fighter 6",
+    "platform": "PC",
+    "rating": 89,
+    "description": "Next-gen Street Fighter with new mechanics and visuals.",
+    "image": "https://picsum.photos/seed/sf6/400/250"
+  }
+]

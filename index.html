@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+  <title>Munzy Games</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <div class="logo-container">
+      <img src="images/logo.png" alt="Munzy Games Logo" class="logo" />
+      <h1>Munzy Games</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Search + Filter -->
+  <section class="controls">
+    <input type="text" id="searchInput" placeholder="Search games..." />
+    <select id="platformFilter">
+      <option value="all">All Platforms</option>
+    </select>
+    <button id="themeToggle">Toggle Dark/Light</button>
+  </section>
+
+  <!-- Reviews -->
+  <main>
+    <section id="reviews"></section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Munzy Games&Atomic</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
