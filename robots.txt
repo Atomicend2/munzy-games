@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://munzy-games.onrender.com/sitemap.xml
