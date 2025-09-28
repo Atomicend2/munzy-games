@@ -20,6 +20,7 @@ function displayReviews(reviews) {
       <p><strong>Platform:</strong> ${review.platform}</p>
       <p><strong>Rating:</strong> ${review.rating}/100</p>
       <p>${review.description}</p>
+      ${review.rating >= 90 ? '<span class="badge">Top Rated</span>' : ''}
     `;
     container.appendChild(card);
   });
